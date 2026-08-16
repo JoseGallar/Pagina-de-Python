@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+}
+
+div{
+    height: 6rem;
+    width: 9.5rem;
+    background-color: blueviolet;
+}
