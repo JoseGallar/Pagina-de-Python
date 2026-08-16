@@ -27,11 +27,7 @@ header nav a{
 header nav a:hover{
     color: #0066cc;
 }
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
+
 .split-screen{
     display: grid;
     grid-template-columns: 1fr 1fr;
