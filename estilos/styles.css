@@ -15,7 +15,7 @@ header{
     justify-content: space-between; /* Separa el título a la izquierda y el menú a la derecha */
     align-items: center;    /* Centra ambos elementos verticalmente */
     padding: 1rem 2rem; /* 1 rem Equivale a 16px*/
-    background-color: #f4f4f4;  /* Color de fondo de prueba */
+    background-color: #DCC573;  /* Color de fondo de prueba */
 }
 
 header nav a{
