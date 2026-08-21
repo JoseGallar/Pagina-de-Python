@@ -28,6 +28,25 @@ header nav a:hover{
     color: #0066cc;
 }
 
+.boton-siguiente{    /*Boton siguiente - estilizanodlo*/
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.boton-siguiente:hover{
+    background-color: #0056b3;
+}
+
+
+
+
 .split-screen{
     display: grid;
     grid-template-columns: 1fr 1fr;
